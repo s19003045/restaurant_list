@@ -76,7 +76,7 @@ Node.js、Express、Express-handlebars
 
 ## 畫面
 
-![首頁..瀏灠所有餐廳]()
+![首頁..瀏灠所有餐廳](https://github.com/s19003045/restaurant_list/blob/master/image/restaurant_list.png)
 
 ![單一餐廳詳細資料]()
 
